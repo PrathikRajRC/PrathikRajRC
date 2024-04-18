@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-[![PrathikRaj's Github States](https://github-readme-stats.vercel.app/api?username=PrathikRajRC&show_icons=true&theme=dracula)](https://github.com/PrathikRajRC/github-readme-stats)
+[![PrathikRaj's Github States](https://github-readme-stats.vercel.app/api?username=PrathikRajRC&show_icons=true&theme=vision-friendly-dark)](https://github.com/PrathikRajRC/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRajRC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
