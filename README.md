@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-[![PrathikRaj's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/PrathikRajRC/github-readme-stats)
+[![PrathikRaj's Github States](https://github-readme-stats.vercel.app/api?username=PrathikRajRC&show_icons=true&theme=dracula)](https://github.com/PrathikRajRC/github-readme-stats)
