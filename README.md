@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 
 
 [![PrathikRaj's Github States](https://github-readme-stats.vercel.app/api?username=PrathikRajRC&show_icons=true&theme=dracula)](https://github.com/PrathikRajRC/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRajRC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/prathikraj-rc-4627301a1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> 
