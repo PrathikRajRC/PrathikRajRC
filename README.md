@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRajRC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me 📫
 <p align="left">
 <a href="https://twitter.com/popcorn_7401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="popcorn_7401" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathikraj-rc-4627301a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathikrajrc" height="30" width="40" /></a>
