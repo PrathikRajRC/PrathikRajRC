@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm PrathikRaj
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] at the PES University, Bangalore<br/>
+👩🏻‍🎓 Studied Computer Science at the PES University, Bangalore<br/>
 💭 Currently learning about cyber security and cloud <br/>
 
 # 💻 Tech Stack
