@@ -20,15 +20,27 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![PrathikRaj's Github States](https://github-readme-stats.vercel.app/api?username=PrathikRajRC&show_icons=true&theme=vision-friendly-dark)](https://github.com/PrathikRajRC/github-readme-stats)
+## 🛠️ Projects
+
+Here are some of the projects I've been working on:
+
+- [NoteNest](https://github.com/PrathikRajRC/NoteNest) - NoteNest is a MERN stack web app for organizing and managing notes efficiently.
+  
+- [Stock-Management-System](https://github.com/PrathikRajRC/Stock-Management) - The Stock Management System is a Python app with a Tkinter GUI, real-time stock data via web scraping, and XAMPP for data storage.
+  
+- [Secure-Message-Encryption-and-Decryption-System](https://github.com/PrathikRajRC/Project3) - A simple encryption tool with AES, RSA, and Caesar Cipher algorithms, featuring a Tkinter GUI for easy encryption, decryption, and key management, plus secure user authentication.
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikRajRC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
