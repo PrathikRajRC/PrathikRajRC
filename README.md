@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 Here are some of the projects I've been working on:
 
+- [Zero Trust Architecture for Securing Smart IoT Devices in 5G Networks]([https://github.com/PrathikRajRC/NoteNest](https://github.com/PrathikRajRC/5G-ZTA-PES)) -
+
 - [NoteNest](https://github.com/PrathikRajRC/NoteNest) - NoteNest is a MERN stack web app for organizing and managing notes efficiently.
   
 - [Stock-Management-System](https://github.com/PrathikRajRC/Stock-Management) - The Stock Management System is a Python app with a Tkinter GUI, real-time stock data via web scraping, and XAMPP for data storage.
