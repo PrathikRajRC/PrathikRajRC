@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 Here are some of the projects I've been working on:
 
-- [Zero Trust Architecture for Securing Smart IoT Devices in 5G Networks](https://github.com/PrathikRajRC/5G-ZTA-PES) -
+- [Zero Trust Architecture for Securing Smart IoT Devices in 5G Networks](https://github.com/PrathikRajRC/5G-ZTA-PES) - Zero Trust-based 5G IoT security system with hybrid encryption and real-time authenticated data flow.
 
 - [NoteNest](https://github.com/PrathikRajRC/NoteNest) - NoteNest is a MERN stack web app for organizing and managing notes efficiently.
   
